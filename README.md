@@ -1,0 +1,2 @@
+# PruTecSoftEstrategico
+Compresion Basica Cadena
